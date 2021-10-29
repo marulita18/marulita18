@@ -15,7 +15,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   
   ## My lasts projects:
-  <a href="https://frosty-hawking-eae0d4.netlify.app/"> Chien Noir webshop </a>
+  <a href="https://chien-noir-vinos.netlify.app/"> Chien Noir webshop </a>
  <p> This individual project is a webshop for a wine store in Argentina. I built the backend and frontend using React, Redux, Express and Node.js, among others. I implemented a  payment system with Paypal and a notification system with Nodemailer. <p>
    
   <a href="https://bark-back.netlify.app/">  Bark Back App </a>
