@@ -18,7 +18,7 @@
   <a href="https://frosty-hawking-eae0d4.netlify.app/"> Chien Noir webshop </a>
  <p> This individual project is a webshop for a wine store in Argentina. I built the backend and frontend using React, Redux, Express and Node.js, among others. I implemented a  payment system with Paypal and a notification system with Nodemailer. <p>
    
-  <a href="https://bark-back.netlify.app//">  Bark Back App </a>
+  <a href="https://bark-back.netlify.app/">  Bark Back App </a>
    <p> Inspired by female empowerment, this project was created to raise awareness on verbal harassment. Creating a fictional setting to comeback with different phrases in different languages. This playful website was built within a 5-days group project using React, Redux and experimental CSS. </p>
   
   ## Let's talk!
